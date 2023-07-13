@@ -1,0 +1,15 @@
+name: StudyMinecraft
+version: '${project.version}'
+main: fr.rosydev.studyminecraft.StudyMinecraft
+api-version: '1.19'
+authors: [C1ach0]
+description: Plugin test
+website: rosydev.fr
+commands:
+  test:
+    description: Commande de test
+  uwu:
+    description: Commande uwu
+  tpto:
+    description: Ce tp à un joueur
+    permission: staff

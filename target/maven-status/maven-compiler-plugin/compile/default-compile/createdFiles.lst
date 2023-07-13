@@ -1,0 +1,10 @@
+fr\rosydev\studyminecraft\annotations\_Listener.class
+fr\rosydev\studyminecraft\annotations\_Command.class
+fr\rosydev\studyminecraft\configurations\TableConsole.class
+fr\rosydev\studyminecraft\StudyMinecraft.class
+fr\rosydev\studyminecraft\commands\TPToCommand.class
+fr\rosydev\studyminecraft\configurations\CommandHandler.class
+fr\rosydev\studyminecraft\configurations\ListenerHandler.class
+fr\rosydev\studyminecraft\events\JoinListener.class
+fr\rosydev\studyminecraft\commands\UwUCommand.class
+fr\rosydev\studyminecraft\commands\TestCommand.class
