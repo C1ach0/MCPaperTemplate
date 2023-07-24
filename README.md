@@ -1,4 +1,4 @@
-# StudyMinecraft
+# MCPaperTemplate
 > Command et Listener handler - Paper plugin 1.19.4
 
 > Version : `0.0.1`
